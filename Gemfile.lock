@@ -50,6 +50,7 @@ GEM
       execjs
     coffee-script-source (1.12.2)
     concurrent-ruby (1.0.5)
+    cowsay (0.3.0)
     erubi (1.6.0)
     execjs (2.7.0)
     globalid (0.4.0)
@@ -143,6 +144,7 @@ PLATFORMS
 DEPENDENCIES
   byebug
   coffee-rails (~> 4.2)
+  cowsay
   jbuilder (~> 2.5)
   pg
   puma (~> 3.7)
